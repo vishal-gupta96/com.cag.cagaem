@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/cagaem/clientlibs"/>
+    <filter root="/apps/cagaem/components"/>
+    <filter root="/apps/cagaem/i18n"/>
+</workspaceFilter>

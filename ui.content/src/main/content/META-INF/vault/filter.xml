@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/cagaem" mode="merge"/>
+    <filter root="/content/cagaem" mode="merge"/>
+    <filter root="/content/dam/cagaem/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/cagaem" mode="merge"/>
+</workspaceFilter>
