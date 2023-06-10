@@ -57,7 +57,6 @@ public class HelloWorldModel {
         message = "Hello World!\n"
             + "Resource type is: " + resourceType + "\n"
             + "Current page is:  " + currentPagePath + "\n";
-        //first
     }
 
     public String getMessage() {
